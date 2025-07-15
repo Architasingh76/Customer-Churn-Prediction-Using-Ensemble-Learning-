@@ -1,7 +1,7 @@
 Customer churn prediction helps businesses identify customers who are likely to stop using their service or product.
 This project uses machine learning to classify customers as likely to churn or not, based on historical data.
 
-🚀 Objectives
+🚀 Objectives: 
 Predict whether a customer will churn (leave) or not.
 Identify key factors contributing to churn.
 Provide actionable insights to reduce churn rate.
